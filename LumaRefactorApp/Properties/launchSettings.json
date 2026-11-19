@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RefactorApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RefactorApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
